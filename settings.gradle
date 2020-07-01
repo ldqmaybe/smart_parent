@@ -1,0 +1,3 @@
+include ':smart_jetpack'
+include ':app'
+rootProject.name = "smart_parent"
